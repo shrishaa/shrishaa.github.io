@@ -8,7 +8,7 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-lg lg:text-xl text-muted-foreground font-body max-w-2xl mx-auto leading-relaxed">
-            Data-driven product thinker and builder who designs experiences that delight users and drive meaningful growth.
+            Product Engineer
           </p>
         </div>
       </div>
